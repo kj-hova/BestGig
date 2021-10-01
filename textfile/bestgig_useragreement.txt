@@ -1,0 +1,128 @@
+This Agreement is dated 28 August 2021.
+
+This User Agreement describes the terms and conditions which you accept by using our Website or our Services. We have incorporated by reference some linked information.
+
+In this User Agreement:
+"Account" means the account associated with your email address.
+
+"Buyer" means a User that purchases Seller Services or items from Sellers or identifies a Seller through the Website. A User may be both a Buyer and a Seller under this agreement.
+
+"Contest" means a contest that is promoted by a Buyer and in respect of which a Seller can submit one or more entries via the Website.
+
+"Contest Brief" means the document setting out the scope of a Contest, including but not limited to items such as a design brief.
+
+"Contest Handover", in respect of a Contest, means the agreement between the Buyer and one or more winning Seller(s) under which each Seller will transfer to the Buyer ownership of the winning entry or entries.
+
+"Dispute Resolution Process" means the process to be followed by Buyers and Sellers in accordance with the Dispute Resolution Services.
+
+"Entrant" means a Seller who has entered a Contest.
+
+"BestGig", "we", "our", "company" or "the company" or "us" means BestGig International Pty Limited (ACN 134 845 748).
+
+"BestGig Enterprise" provides organizations access to a global workforce of over 42 million BestGigs. BestGig Enterprise enables large organizations to accelerate their growth for less.
+
+"Verified by BestGig" Users have been satisfactorily verified under the Know your Customer and Identity Verification Policy.
+
+"Inactive Account" means a User Account that has not been logged into for a 6 month period, or other period determined by us from time to time.
+
+"Intellectual Property Rights" means any and all intellectual property rights, existing worldwide and the subject matter of such rights, including: (a) patents, copyright, rights in circuit layouts (or similar rights), registered designs, registered and unregistered trademarks, and any right to have confidential information kept confidential; and (b) any application or right to apply for registration of any of the rights referred to in paragraph (a), whether or not such rights are registered or capable of being registered and whether existing under any laws, at common law or in equity.
+
+"Local Job" or "Local Jobs" means a service we provide to match a Buyer with a Seller in relation to the provision of location specific services.
+
+"Milestone Payment" means a payment made by the Buyer for the provision of Seller Services under a User Contract and which will be released in accordance with the section "Milestone Payments" of these terms and conditions.
+
+"Project" or "Listing" means a job offered or awarded by a Buyer via the Website, which may include a Project or Contest listed by a Buyer, a Project awarded by a Buyer (for example through HireMe), a service bought by a Buyer from a Seller, and service awarded by a Buyer to a Seller as a result of a Contest or competition hosted via the Website.
+
+"Seller" means a User that offers and provides services or identifies as a Seller through the Website. A User may be both a Buyer and a Seller under this agreement.
+
+"Seller Services" means all services provided by a Seller.
+
+"BestGig Services" means all services provided by us to you.
+
+"User", "you" or "your" means an individual who visits or uses the Website, including via the API.
+
+"User Contract" means: (1) this User Agreement; (2) the Code of Conduct as amended from time to time; (3) any other contractual provisions accepted by both the Seller and Buyer uploaded to the Website, to the extent not inconsistent with the User Agreement and the Code of Conduct; (4) the Project terms as awarded and accepted on the Website, to the extent not inconsistent with the User Agreement and the Code of Conduct; and (5) any other material incorporated by reference from time to time.
+
+"Website" means the Websites operated by BestGig and available at: BestGig.com and any of its regional or other domains or properties, and any related BestGig service, tool or application, specifically including mobile web, any iOS App and any Android App, or API or other access mechanism.
+
+
+3. Eligibility
+You will not use the Website if you:
+
+are not able to form legally binding contracts;
+are under the age of 16;
+a person barred from receiving and rendering services under the laws of Australia or other applicable jurisdiction;
+are suspended from using the Website; or
+do not hold a valid email address.
+All free user accounts are associated with individuals. Login credentials should not be shared by users with others. The individual associated with the account will be held responsible for all actions taken by the account, without limitation.
+
+Subject to your local laws, a person over 15 but under 18 can use an adult's account with the permission of the account holder. However, the account holder is responsible for all actions taken by the account, without limitation.
+
+Users may provide a business name or a company name, which is associated with the User's Account. Users acknowledge and agree that where a business name or company name is associated with their Account, this User Agreement is a contract with the User as an individual (not the business or company) and Users remain solely responsible for all activity undertaken in respect of their Account.
+
+A company, corporation, trust, partnership or other non-individual corporate entity may be a User subject to an eligible corporate account which pays corporate subscriptions.
+
+We may, at our absolute discretion, refuse to register any person or entity as a User.
+
+You cannot transfer or assign any rights or obligations you have under this agreement without prior written consent.
+
+4. Using BestGig
+While using the Website, you will not attempt to or otherwise do any of the following:
+
+post content or items in inappropriate categories or areas on our Websites and services;
+infringe any laws, third party rights or our policies, such as the Code of Conduct;
+fail to deliver payment for services delivered to you;
+fail to deliver Seller Services purchased from you;
+circumvent or manipulate our fee structure, the billing process, or fees owed to BestGig;
+post false, inaccurate, misleading, deceptive, defamatory or offensive content (including personal information);
+take any action that may undermine the feedback or reputation systems (such as displaying, importing or exporting feedback information or using it for purposes unrelated to the Website);
+transfer your BestGig account (including feedback) and Username to another party without our consent;
+distribute or post spam, unsolicited, or bulk electronic communications, chain letters, or pyramid schemes;
+distribute viruses or any other technologies that may harm BestGig, the Website, or the interests or property of BestGig users (including their Intellectual Property Rights, privacy and publicity rights) or is unlawful, threatening, abusive, defamatory, invasive of privacy, vulgar, obscene, profane or which may harass or cause distress or inconvenience to, or incite hatred of, any person;
+download and aggregate listings from our website for display with listings from other websites without our express written permission, "frame", "mirror" or otherwise incorporate any part of the Website into any other website without our prior written authorisation;
+attempt to modify, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by us in connection with the Website;
+copy, modify or distribute rights or content from the Website or BestGig's copyrights and trademarks; or
+harvest or otherwise collect information about Users, including email addresses, without their consent.
+use BestGig to facilitate money exchange including, but not limited to, cryptocurrency (e.g. bitcoin, ethereum, etc).
+5. Intellectual Property Rights Infringement
+It is our policy to respond to clear notices of alleged intellectual property rights infringement. Our Copyright Infringement Policy is designed to make submitting notices of alleged infringement to us as straightforward as possible while reducing the number of notices that we receive that are fraudulent or difficult to understand or verify. If you believe that your Intellectual Property Rights have been violated, please notify us via this link on our Website and we will investigate.
+
+6. Fees and Services
+We charge fees for certain services, such as introduction fees for Projects, listing upgrades and memberships. When you use a service that has a fee, you have an opportunity to review and accept the fees that you will be charged based on our schedule of Fees and Charges, which we may change from time to time and will update by placing on our Website. We may choose to temporarily change the fees for our services for promotional events (for example, discounts on memberships) or new services, and such changes are effective when we post a temporary promotional event or new service on the Websites, or as notified through promotional correspondence.
+
+Unless otherwise stated, all fees are quoted in Naira.
+
+
+7. Withdrawals
+Your first withdrawal of funds earned may be delayed for up to fifteen days for security and fraud purposes.
+
+Subsequent withdrawals may be delayed for up to fifteen days where our fraud prevention policies require a delay.
+
+We may impose a minimum withdrawal amount for funds earned. This is set out in our schedule of Fees and Charges. The maximum you can withdraw per month is N1,000,000 unless otherwise specifically agreed with support.
+
+We may require you to be Verified by BestGig before you can withdraw funds from your BestGig Account, irrespective of whether or not a delay has been enforced. For details of how to become Verified by BestGig please read the Know your Customer and Identity Verification Policy.
+
+You acknowledge and agree that we may seek to verify your identity or request additional information from you as part of our anti-fraud and Know Your Customer policy, as outlined in the section on "Identity / Know Your Customer" sections of this agreement.
+
+
+
+. Additional Terms
+It is important to read and understand all our policies as they provide the rules for trading on the BestGig Website. In addition there may be specific policies or rules that apply, and it is your responsibility to check our Help pages and policies to make sure you comply. Our policies, including all policies referenced in them, are part of this Agreement and provide additional terms and conditions related to specific services offered on our Websites, including but not limited to:
+
+9. Abusing BestGig
+BestGig reserves to the greatest extent possible all rights, without limiting any other remedies, to limit, suspend or terminate our service(s) and or user account(s), suspend or ban access to our services, remove any content, and to take any and all technical or legal steps to ban users.
+
+Without limiting the reasons for taking the aforementioned actions, conduct giving rise to this response could include:
+
+use of our services for any illegitimate or non bona fide purpose
+creating problems with other users or potential legal liabilities
+infringing the intellectual property rights of third parties
+acting inconsistently with the letter or spirit of any of our policies
+abuse of any staff members including inappropriate or unreasonable communications
+abuse or poor performance in the Preferred BestGig Program
+any attempt to use BestGig's platform or services for any objectionable purpose
+
+10. Feedback
+If you have any questions about this User Agreement or if you wish to report breaches of this User Agreement, please contact us by using our customer support website or emailing us at kjiglobalent@gmail.com.
+
+BestGig® is a registered Trademark of Undground Technologies Ltd.

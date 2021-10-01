@@ -1,0 +1,280 @@
+/* 
+ This is the BestGig App external stylesheet
+*/
+
+/*
+  Created by John "KJ" Idehai
+  https://johnidehai.com;
+  Refer to the owner for free usage of this codes in part or full;
+*/
+
+
+/*Main CSS for all pages*/
+	@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,500&display=swap');
+  body{
+    background-color: rgb(50,205,50);
+  }
+	#logo{
+		width: 50px;
+    	border-radius: 10px;
+	}
+	#navname{
+		font-family: prompt;
+		color: rgb(34,150,34);
+		font-size: 150%;
+	}
+	.dropdown-item{
+		font-size: 70%;
+	}
+  textarea{
+    max-width: 95%;
+  }
+ 
+/*CSS for index page*/
+  #bannerdiv1{
+    position: relative;
+    height: 40em;
+    background-image: url(images/gigbanner.png);
+    background-attachment: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: limegreen;
+  }s
+  #bannerdiv2{
+    height: 40em;
+    background-image: url(images/gigbanner3.png);
+    background-attachment: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: limegreen;
+  }
+  #bannerdiv3{
+    height: 40em;
+    background-image: url(images/gigbanner2.png);
+    background-attachment: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: limegreen;
+  }
+  #bannerdiv4-project{
+    height: 40em;
+    background-image: url(images/gigbanner4.png);
+    background-attachment: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: limegreen;
+  }
+  #alignVertical{
+    height: 40em;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    align-content: center;
+    
+  }
+
+  #aboutUs{
+    text-align: center;
+  }
+  #socialMedia{
+    margin-left: 1.5em;
+  }
+  #footerdiv2{
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+  }
+
+  /*CSS for login page*/
+  #login-container{
+    background-image: url('images/blackmodal.jpg');
+  }
+
+/*CSS for extra page*/
+  .imageholder{
+    border-top-left-radius: 70px;
+    transform-origin: left top;
+    transform: skewX(12deg);
+    overflow: hidden;
+  }
+  .imageholder img{
+    transform-origin: left top;
+    transform: skewX(-12deg);
+  }
+  #extrabanner{
+    background: linear-gradient(45deg,pink,orange,pink,orange);
+  }
+  #BestGigscreamer{
+    font-size: 300%;
+    font-family: prompt;
+    color: rgb(34,150,34);
+    color: darkgreen;
+  }
+
+/*CSS for legal page*/
+  .legal{
+    background-color: white;
+    color: darkgray;
+  }
+  .headline{
+    color: rgb(34,150,34);
+  }
+
+/*CSS for footer page*/
+  #footerdiv{
+    background: linear-gradient(45deg, rgb(0,0,0), rgb(128,0,0));
+    color: white;
+    width: 100%;
+  }
+  .links{
+    color: yellow;
+    padding: 1em, 1.5em;
+    text-decoration: none;
+  }
+  links:visited{
+    color: yellow;
+  }
+  #footer-contact{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+  }
+
+/*CSS for projectlist page*/
+  @media only screen and (min-width: 320px){
+    [class*="col-"]{
+      width: 100%;
+      margin-bottom: 0%;
+      margin-top: 0%;
+      margin-left: 0%;
+      margin-right: 0%;
+    }
+  }
+  #navbarLimargin{
+    margin-left: 2em;
+  }
+  #smallbanner{
+    background: linear-gradient(to right, darkgreen, limegreen, darkgreen);
+    color: #fff;
+    align-items: center;
+    display: flex;
+    height: 10em;
+    padding-left: 1em;
+    margin-bottom: 1em;
+  }
+
+  #insideSmallbanner{
+    text-align: center;
+  }
+  .dropdown-item{
+    font-size: 70%;
+  }
+  #projectbanner{
+    margin-bottom: 5em;
+  }
+  #projectad{
+    margin-left: 3em;
+    margin-right: 3em;
+  }
+  #projectad:hover{
+    padding: 0.1em 0.1em 0.1em 0.1em;
+    box-shadow: limegreen 0px 5px 15px;
+  }
+  #bidButton{
+    position: absolute;
+    bottom: 1em;
+    right: 2em;
+    background-color: limegreen;
+  }
+  h5{
+    display: inline-block;
+  }
+  #projectID{
+    position: absolute;
+    bottom: 5em;
+    right: 1em;
+    font-size: xx-small;
+  }
+
+/*CSS for worker list page*/
+  #reviewDiv{
+    background-color: #98bf21;
+  }
+  #dp2{
+    width: 5em;
+    height: 5em;
+    border-radius: 50%;
+  }
+
+/*CSS for public user & private user pages*/
+  .checked{
+    color: orange;
+  }
+  #dp{
+    width: 10em;
+    height: 10em;
+  }
+
+/*CSS for post project page*/
+  #smallbanner{
+    background: linear-gradient(to right, darkgreen, limegreen, darkgreen);
+    color: #fff;
+    align-items: center;
+    display: flex;
+    height: 5em;
+    padding-left: 1em;
+    margin-bottom: 1em;
+  }
+
+  #insideSmallbanner{
+    text-align: center;
+  }
+
+/*CSS for admin registration page*/
+    #wallpaper{
+      background-image: url(images/wallpaper3.jpg);
+    }
+
+    #adminer{
+      min-height: 100vh;
+    }
+
+    .reg{
+      color: #075767;
+    }
+
+    h2{
+      padding: 20px;
+      font-size: 40px;
+      background-position: center center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          box-sizing: border-box;
+    }
+
+    .btn{
+      margin-right: 0px;
+      background: #1c6707;
+      color:rgb(255,255,255);
+      font-size: 15px;
+      padding:4px 15px;
+      border:2px solid #075767;
+      cursor:pointer;
+      text-transform: uppercase;
+    }
+
+    .btn:hover{
+      /*background:rgba(255,165,0,0.8);*/
+      color:#075767;
+    }
+    #importante{
+      color: red;
+    }
+
+    /*CSS for post project page*/
+    #hh6{
+      color: green;
+    }
+  </style>
+
+  </style>
